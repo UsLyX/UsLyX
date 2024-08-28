@@ -24,7 +24,7 @@
 </h2>
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=uslyx&layout=compact&theme=radical&card_height=215" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uslyx&layout=donut&theme=radical" />
 </p>
 <p align="center">
     <img src="https://count.getloli.com/get/@:uslyx" alt=":uslyx" />
