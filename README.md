@@ -1,6 +1,6 @@
 <p></p>
 <p align="center">
-  <img src="https://github.com/uslyx/profile/blob/main/images/Banner.png"/>
+  <img src="images/Banner.png"/>
 </p>
 
 ---
