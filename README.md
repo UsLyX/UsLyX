@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="40" height="40" />
 </h2>
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=uslyx&layout=compact&theme=radical&card_height=215" />
+  <!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=uslyx&layout=compact&theme=radical&card_height=215" />-->
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uslyx&layout=donut&theme=radical" />
 </p>
 <p align="center">
